@@ -55,6 +55,23 @@ Este projeto proporcionou experiência prática na execução de testes de softw
 
 Também permitiu desenvolver uma visão mais estruturada do processo de Quality Assurance, desde a análise do comportamento esperado até o registro dos resultados encontrados.
 
+
+## 🏆 Conclusão do projeto
+
+Projeto concluído com **100% de progresso** no Bootcamp de Analista de QA da TripleTen.
+
+Nesta etapa, foram desenvolvidas e aplicadas habilidades em:
+
+- Teste de Fumaça (Smoke Testing)
+- Teste de Regressão (Regression Testing)
+- Relatório de Bugs (Bug Reporting)
+
+### Evidência de conclusão
+
+![Conclusão do projeto de QA na TripleTen](Image.png)
+
+
+
 ---
 
 **Autor:** Vinicius Sergio Alencar  
